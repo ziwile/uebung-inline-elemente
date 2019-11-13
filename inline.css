@@ -28,25 +28,3 @@ p{
 	margin: 0 auto;
 	width:  600px;
 }
-
-#bild{
-	float: left;
-	margin: 0 1rem 1rem 0;
-}
-
-a{
-	display: inline;
-	background: yellow;
-
-}
-
-span{
-	color: red;
-}
-
-.erster-buchstabe{
-	font-size: 400%;
-	display:block;
-
-	float: left;
-}
