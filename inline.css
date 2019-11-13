@@ -28,3 +28,21 @@ p{
 	margin: 0 auto;
 	width:  600px;
 }
+a{
+	display: inline-block;
+	background: yellow;
+}
+
+span{
+	color: red;
+}
+strong{
+	font-weight: normal;
+}
+/* panaikintas paryskinimas, bet tekste bus perskaitytas vistiek kaip stong */
+
+#bild{
+	float: left;
+	margin-right: 10px;
+}
+/* float paslenka paveiksla ant teksto */
